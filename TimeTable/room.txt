@@ -1,0 +1,9 @@
+411 false
+418 true
+511 false
+517 true
+605 false
+606 false
+608 true
+609 false
+610 false
